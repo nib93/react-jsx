@@ -1,0 +1,19 @@
+.tweet {
+    border: 5px solid #007acc;
+    border-radius: 15px;
+    margin: 20px 20%;
+    padding: 20px;
+  }
+  .name{
+    font-weight: bolder;
+  }
+  .username,
+  .date {
+    color: #f8a6a6;
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .message{
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
